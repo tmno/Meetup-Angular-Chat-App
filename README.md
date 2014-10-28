@@ -32,7 +32,7 @@ A 2 hour meetup covering some javascript basics and locking down our feature set
  - Set Status
 - Logout
 
-###Tech Stack
+###Tech Stack (Will be finalized after meetup 2)
 - Node.js
  - Express
 
