@@ -6,6 +6,9 @@ We are very excited about the turnout of the first meetup in the series. As a re
 ##Meetup 2
 A 2 hour meetup covering some javascript basics and locking down our feature set.
 
+###Important Links
+https://github.com/dylanjohnson/mean-vagrant
+
 ###What we will cover in Meetup 2
 - 45-60 minutes Javascript basics
 - Setting up our environment
