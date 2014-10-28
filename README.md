@@ -1,10 +1,7 @@
 Meetup - Angular Chat App
 =======================
 
-We are very excited about the turnout of the first meetup in the series. As a result we are building an angular chat application using a Node.js backend.
-
-##Meetup 2
-A 2 hour meetup covering some javascript basics and locking down our feature set.
+#github.com/madmobile
 
 ###Important Links
 - MEAN Vagrant Repo: https://github.com/dylanjohnson/mean-vagrant (Clone this)
