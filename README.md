@@ -15,6 +15,7 @@ A 2 hour meetup covering some javascript basics and locking down our feature set
 - VirtualBox: https://www.virtualbox.org/wiki/Downloads
 - Webstorm: https://www.jetbrains.com/webstorm/download/
 - Node.js http://nodejs.org/download/
+ - Grunt CLI:
 
 
 ###Tech Stack (Will be finalized after meetup 2)
@@ -35,6 +36,7 @@ A 2 hour meetup covering some javascript basics and locking down our feature set
 ####Build
 - Grunt / Gulp
 - Phonegap
+- Chrome App
 
 ####Continues Integration / Deployment
 - Jenkins
@@ -45,6 +47,7 @@ A 2 hour meetup covering some javascript basics and locking down our feature set
 
 ####End to end test
 - Protractor / Cucumber
+
 
 ###What we will cover in Meetup 2
 - 45-60 minutes Javascript basics
