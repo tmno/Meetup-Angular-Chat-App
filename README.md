@@ -11,6 +11,7 @@ A 2 hour meetup covering some javascript basics and locking down our feature set
 - DevOps Meetup: http://www.meetup.com/Tampa-DevOps/
 
 ###Downloads
+- Vagrant: http://vagrantup.com/
 - Webstorm: https://www.jetbrains.com/webstorm/download/
 - Node.js http://nodejs.org/download/
 
