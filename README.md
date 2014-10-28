@@ -43,8 +43,24 @@ A 2 hour meetup covering some javascript basics and locking down our feature set
 - Logout
 
 ###Tech Stack (Will be finalized after meetup 2)
+####Backend
+- Nginx
 - Node.js
  - Express
+ - Mongo
 
+####Frontend
 - Angular
  - Ionic
+
+####Builder
+- Grunt / Gulp
+
+####Testing
+- Karma
+- Jasmine
+
+####End to end test
+- Protractor / Cucumber
+
+
