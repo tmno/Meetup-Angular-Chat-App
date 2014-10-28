@@ -7,8 +7,8 @@ We are very excited about the turnout of the first meetup in the series. As a re
 A 2 hour meetup covering some javascript basics and locking down our feature set.
 
 ###Important Links
-https://github.com/dylanjohnson/mean-vagrant
-DevOps Meetup: http://www.meetup.com/Tampa-DevOps/
+- https://github.com/dylanjohnson/mean-vagrant
+- DevOps Meetup: http://www.meetup.com/Tampa-DevOps/
 
 ###What we will cover in Meetup 2
 - 45-60 minutes Javascript basics
