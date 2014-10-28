@@ -1,7 +1,8 @@
+#github.com/madmobile
+
 Meetup - Angular Chat App
 =======================
 
-#github.com/madmobile
 
 ###Important Links
 - MEAN Vagrant Repo: https://github.com/dylanjohnson/mean-vagrant (Clone this)
