@@ -12,7 +12,7 @@ A 2 hour meetup covering some javascript basics and locking down our feature set
 
 ###Downloads
 - Vagrant: http://vagrantup.com/
-- VirtualBox: s://www.virtualbox.org/wiki/Downloads
+- VirtualBox: https://www.virtualbox.org/wiki/Downloads
 - Webstorm: https://www.jetbrains.com/webstorm/download/
 - Node.js http://nodejs.org/download/
 
