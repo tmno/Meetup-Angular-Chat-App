@@ -10,6 +10,9 @@ A 2 hour meetup covering some javascript basics and locking down our feature set
 - https://github.com/dylanjohnson/mean-vagrant
 - DevOps Meetup: http://www.meetup.com/Tampa-DevOps/
 
+###Downloads
+- Webstorm: https://www.jetbrains.com/webstorm/download/
+
 ###What we will cover in Meetup 2
 - 45-60 minutes Javascript basics
 - Setting up our environment
