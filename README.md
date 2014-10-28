@@ -12,6 +12,7 @@ A 2 hour meetup covering some javascript basics and locking down our feature set
 
 ###Downloads
 - Webstorm: https://www.jetbrains.com/webstorm/download/
+- Node.js http://nodejs.org/download/
 
 ###What we will cover in Meetup 2
 - 45-60 minutes Javascript basics
