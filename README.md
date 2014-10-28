@@ -53,8 +53,16 @@ A 2 hour meetup covering some javascript basics and locking down our feature set
 - Angular
  - Ionic
 
-####Builder
+####Package Manager
+- Bower
+- NPM
+
+####Build
 - Grunt / Gulp
+- Phonegap
+
+####Continues Integration / Deployment
+- Jenkins
 
 ####Testing
 - Karma
