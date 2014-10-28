@@ -7,7 +7,7 @@ We are very excited about the turnout of the first meetup in the series. As a re
 A 2 hour meetup covering some javascript basics and locking down our feature set.
 
 ###Important Links
-- https://github.com/dylanjohnson/mean-vagrant
+- MEAN Vagrant Repo: https://github.com/dylanjohnson/mean-vagrant (Clone this)
 - DevOps Meetup: http://www.meetup.com/Tampa-DevOps/
 
 ###Downloads
