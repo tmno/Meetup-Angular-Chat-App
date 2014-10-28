@@ -32,3 +32,9 @@ A 2 hour meetup covering some javascript basics and locking down our feature set
  - Set Status
 - Logout
 
+###Tech Stack
+- Node.js
+ - Express
+
+- Angular
+ - Ionic
