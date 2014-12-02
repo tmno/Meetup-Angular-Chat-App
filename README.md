@@ -3,7 +3,7 @@
 Meetup - Angular Chat App
 =======================
 
-###Downloads
+###Required Downloads
 ####Install GIT:
 - http://git-scm.com/download/win
 - http://git-scm.com/download/mac
@@ -12,17 +12,22 @@ Meetup - Angular Chat App
 - http://nodejs.org/
  - Grunt CLI: npm install -g grunt-cli
 
-####Install Mongo (Optional, or use VirtualBox)
+####Install Mongo (or use VirtualBox)
 - http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+- http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/
 
-#### Install VirtualBox
+####Install VirtualBox/Mongo
 - https://www.virtualbox.org/wiki/Downloads
+ - Mongo
 
+
+
+###Optional Downloads
 ####Install Webstorm:
 - https://www.jetbrains.com/webstorm/download/
 
-#### Install Robomongo:
-
+####Install Robomongo:
+- http://robomongo.org/download.html
 
 
 
