@@ -18,7 +18,8 @@ Meetup - Angular Chat App
 
 ####Install VirtualBox/Mongo
 - https://www.virtualbox.org/wiki/Downloads
- - Mongo
+ - Ubuntu: http://www.ubuntu.com/download/server
+ - Mongo: http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
 
 
 
