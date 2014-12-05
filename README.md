@@ -45,3 +45,5 @@ https://www.jetbrains.com/webstorm/download/
 http://robomongo.org/download.html
 
 
+## Clone test project
+    git clone https://github.com/MadMobile/Meetup-Angular-Chat-App.git

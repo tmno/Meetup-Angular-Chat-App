@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "tbjsChat Meetup Chat Application",
   "author": "tbjsChat Meetup Group",
+  "scripts":{
+    "start":"node index.js"
+  },
   "dependencies": {
     "express": "^4.10.4"
   },
