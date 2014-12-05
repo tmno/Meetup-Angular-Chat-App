@@ -47,7 +47,7 @@ https://www.jetbrains.com/webstorm/download/
 http://robomongo.org/download.html
 
 
-## Clone test project
+# Run the test project
 
 First, open a terminal or command prompt and cd into a directory to clone the test project.
 
