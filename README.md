@@ -46,4 +46,13 @@ http://robomongo.org/download.html
 
 
 ## Clone test project
+
+First, open a terminal or command prompt and cd into a directory to clone the test project.
+
     git clone https://github.com/MadMobile/Meetup-Angular-Chat-App.git
+
+    npm install
+
+    npm start
+
+Now you should be able to point your browser to http://localhost:3000/ and see the "Hello world!" page.
