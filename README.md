@@ -6,7 +6,7 @@ Meetup - Angular Chat App
 ##Required Downloads
 
 ####1) Install GIT:
-http://git-scm.com/download/win      return   
+http://git-scm.com/download/win
 http://git-scm.com/download/mac
 
 ####2) Install Node:
@@ -15,7 +15,7 @@ http://nodejs.org/
 ###Local Database:
 
 ####3) Install Mongo Locally (or use VirtualBox):
-http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/      return
+http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/      
 http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/
 
 ###Or Virtual Box Database:
